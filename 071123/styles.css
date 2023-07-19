@@ -1,0 +1,196 @@
+body {
+	/* margin: 10px; */
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 10px;
+	border: 10px transparent;
+	box-sizing: border-box;
+	font-family: "Courier New", Courier, monospace;
+	background-image: linear-gradient(
+		to bottom,
+		rgba(255, 255, 255, 1),
+		rgba(180, 180, 180, 1)
+	);
+}
+
+.container {
+	width: 3000px;
+	/* min-height: 100vh; */
+	padding: 1%;
+	/* background-image: linear-gradient(
+		to bottom,
+		rgba(255, 255, 255, 1),
+		rgba(180, 180, 180, 1)
+	); */
+
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 5px transparent;
+	height: 75px;
+}
+
+.searchBar {
+	width: 50px;
+	height: 25px;
+	max-width: 700px;
+	background: #e7e7e7;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 60px;
+	padding: 5px 20px;
+	/* margin-bottom: 2500px;
+	margin-right: 700px;
+	margin-left: 600px; */
+
+	margin-right: 50px;
+}
+
+.logo {
+	width: 100px;
+	height: 50px;
+	padding: 20px;
+	background-color: transparent;
+	border: 5px transparent;
+	margin-right: 20%;
+	/* margin-bottom: 2500px;
+	margin-right: 30px;
+	margin-left: 20px; */
+	/* margin: 30px; */
+}
+
+.searchBar input {
+	background: transparent;
+	flex: 1;
+	border: 0;
+	outline: none;
+	padding: 24px 20px;
+	font-size: 30px;
+	color: grey;
+	align-items: top;
+	justify-content: center;
+}
+
+::placeholder {
+	color: black;
+}
+
+.searchBar button img {
+	width: 25px;
+}
+
+.searchBar button {
+	border: 0;
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	background: grey;
+	cursor: pointer;
+}
+
+.button {
+	display: inline-flex;
+	height: 75px;
+	width: 300px;
+	padding: 0;
+	background: #33d4ff;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	overflow: hidden;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-weight: bolder;
+	cursor: pointer;
+	/* margin-bottom: 2500px;
+	margin-right: 30px;
+	margin-left: 20px; */
+
+	margin-left: 0.75cap;
+}
+
+.button:hover {
+	background-color: #33beff;
+}
+
+.button:active {
+	background-color: #33a3ff;
+}
+
+.button__text,
+.button__icon {
+	display: inline-flex;
+	align-items: center;
+	padding: 0px 55px;
+	color: white;
+	height: 100%;
+}
+
+.button__icon {
+	font-size: 1.3em;
+	background: rgba(0, 0, 0, 0.08);
+	display: inline-flex;
+	align-items: right;
+	justify-content: right;
+}
+
+.button.sign-up-button {
+	color: #33d4ff;
+	display: inline-flex;
+	height: 75px;
+	width: 300px;
+	padding: 0;
+	background: white;
+	border: transparent;
+	outline: none;
+	border-radius: 5px;
+	overflow: hidden;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-weight: bolder;
+	cursor: pointer;
+	align-items: center;
+	justify-content: center;
+
+	margin-left: 0.75cap;
+}
+
+.button.sign-up-button:hover {
+	color: #33a3ff;
+}
+
+/* .button.sign-up-button:active {
+	background-color: white;
+} */
+
+.button.sign-up-button__text,
+.button.sign-up-button__icon {
+	display: inline-flex;
+	align-items: center;
+	padding: 0px 55px;
+	color: blue;
+	height: 100%;
+}
+
+.button.sign-up-button__icon {
+	font-size: 1.3em;
+	background: rgba(0, 0, 0, 0.08);
+	display: inline-flex;
+	align-items: right;
+	justify-content: right;
+}
+
+.horizLine {
+	width: 100%;
+	height: 3.5px;
+	border: none;
+
+	background-color: #dfdfdf;
+	margin-bottom: 6000px;
+	/* margin-right: 30px;
+	margin-left: 20px;
+	margin: 30px; */
+}
