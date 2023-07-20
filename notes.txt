@@ -11,8 +11,17 @@ formal name
 occupation
 website
 
+07.20.23
+Align the profileInformation and profileDescription
 
-07.13.24 :
+Add horizontal bar underneath profile
+
+commit changes to github
+
+build a gallery of dojacatimages
+
+
+07.23.24 :
 To practice DOM manipulation and JavaScript, you can follow these steps:
 
     Set up a development environment: Install a code editor like Visual Studio Code or Sublime Text and make sure you have a web browser installed.
