@@ -20,6 +20,9 @@ commit changes to github
 
 build a gallery of dojacatimages
 
+07.21.23
+    Create grid of images resembling instagram
+
 
 07.23.24 :
 To practice DOM manipulation and JavaScript, you can follow these steps:
