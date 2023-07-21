@@ -44,3 +44,14 @@ To practice DOM manipulation and JavaScript, you can follow these steps:
     Practice exercises and projects: There are numerous online resources and tutorials available that provide DOM manipulation exercises and projects. Some popular websites include freeCodeCamp, MDN Web Docs, and Codecademy. You can also try building small projects on your own to reinforce your understanding.
 
     Review and repeat: Regularly review the concepts and techniques you've learned to solidify your understanding. Repeat the process of selecting elements, modifying properties, and handling events using different examples to become comfortable with DOM manipulation.
+
+
+    future projects:
+
+    . Web application using api
+            Finished by mid Aug.
+2. Bronchure site
+    Started in September
+3. E-commerce site
+4. Personal Portfolio
+5. Simple game
