@@ -21,7 +21,9 @@ commit changes to github
 build a gallery of dojacatimages
 
 07.21.23
-    Create grid of images resembling instagram
+    Created grid of images resembling instagram
+
+    Now we have to add css so that when the user points at the image, an overlay is created, making the image a little darker & a like counter and a comment counter
 
 
 07.23.24 :
