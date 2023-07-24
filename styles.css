@@ -301,3 +301,31 @@ button {
 		--row-height: 200px;
 	}
 }
+
+.footer {
+	padding: 1%;
+	border: 10px;
+	max-width: 100%;
+	margin-top: 1%;
+	color: gray;
+	margin-left: 15%;
+	font-size: small;
+	cursor: pointer;
+	word-spacing: 1em;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer-info {
+	padding: 1%;
+	border: 10px;
+	max-width: 100%;
+	margin-top: -50px;
+	color: gray;
+	margin-left: 40%;
+	font-size: small;
+	cursor: pointer;
+	word-spacing: 1em;
+	justify-content: center;
+	align-items: center;
+}

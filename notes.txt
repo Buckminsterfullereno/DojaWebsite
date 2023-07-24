@@ -23,10 +23,15 @@ build a gallery of dojacatimages
 07.21.23
     Created grid of images resembling instagram
 
-    Now we have to add css so that when the user points at the image, an overlay is created, making the image a little darker & a like counter and a comment counter
+    added a some javascript code to change the appearance of the image when the user hovers over the image. It also shows a like and comment counter.
 
+07.24.23
 
-07.23.24 :
+    Added the footer of the website.
+
+    Research how to implement a simple API into this Dojacat insta website.
+
+tbd:
 To practice DOM manipulation and JavaScript, you can follow these steps:
 
     Set up a development environment: Install a code editor like Visual Studio Code or Sublime Text and make sure you have a web browser installed.
